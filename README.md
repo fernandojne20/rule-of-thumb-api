@@ -6,7 +6,7 @@ En este repositorio se encuentra la parte de Backend de la prueba
 # Producción
 
 Esta API se encuentra alojada en la nube en servidores de Heroku con base de datos en MongoDB  
-Link: (http://almundoapi.herokuapp.com/)
+Link: (https://rule-of-thumb-zem.herokuapp.com/)
 
 # Desarrollo
 
